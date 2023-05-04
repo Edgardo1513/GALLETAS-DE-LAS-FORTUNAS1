@@ -1,0 +1,97 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;    
+    background: no-repeat;
+    background-size: 100%; 
+         
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color:black;
+}
+
+
+@media only screen
+and (min-device-width: 320px)
+and (max-device-width: 480px)
+{
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;    
+        background: no-repeat;
+        background-size: 100%; 
+              
+    }
+    
+    body{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color:black;
+    }
+    
+ }
+
+ 
+@media only screen
+and (min-device-width: 481px)
+and (max-device-width: 768px)
+{
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;    
+        background: no-repeat;
+        background-size: 100%; 
+              
+    }
+    
+    body{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: black;
+    }
+    
+ }
+
+ @media only screen
+and (min-device-width: 769px)
+and (max-device-width: 1024px)
+{
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;    
+        background: no-repeat;
+        background-size: 100%; 
+                
+    }
+    
+    body{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: black;
+        
+    }
+    
+ }
+
+ 
+@media only screen
+and (min-device-width: 1024px)
+and (max-device-width: 1367px)
+{
+    *{
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;    
+        background: no-repeat;
+        background-size: 100%;                
+    }
+    
+    body{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: black;
+        
+    }
+ }
